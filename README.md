@@ -10,3 +10,11 @@ The MTA turnstile data. It is obtained from the turnstile unit counting the entr
 Technologies: Python using Jupyter notebook, SQL
 
 Libraries: Pandas, Matplotlib and Seaborn
+
+
+
+**Instructor:** [**Mr. Srinivas Rao**]()
+
+### contributors:
+
+#### [Randa Almohammadi](https://github.com/rmalmoha)
