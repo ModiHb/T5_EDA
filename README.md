@@ -12,6 +12,7 @@ Technologies: Python using Jupyter notebook, SQL
 Libraries: Pandas, Matplotlib and Seaborn
 
 
+______________________________________________________
 
 **Instructor:** [**Mr. Srinivas Rao**]()
 
